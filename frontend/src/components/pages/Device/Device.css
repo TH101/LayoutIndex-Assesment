@@ -1,0 +1,26 @@
+.div1{
+    background-color: rgb(248, 248, 248);
+    width: auto;
+    height:auto;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 30px;
+    
+   
+    
+}
+
+.div2{
+/* background-color: beige; */
+margin-left: 50px;
+margin-top: 10px;
+margin-bottom: 10px;
+margin-right: 10px;
+width: 100px;
+right: 100px;
+}
+
+.pLogo{
+    width: 100px;
+    height: 100px;
+}
